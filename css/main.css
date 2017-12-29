@@ -1,0 +1,28 @@
+html {
+    color: #222;
+    font-size: 12px;
+}
+
+
+img {
+    display: block;
+    height: 40px;
+    width: 40px;
+    border: 1px solid aliceblue;
+    padding: 0;
+}
+
+.container {
+    display: table;
+}
+
+.containerRow {
+    display: table-row;
+}
+
+.containerCell {
+    display: table-cell;
+    border: 1px solid olivedrab;
+    vertical-align: middle;
+    text-align: center;
+}
